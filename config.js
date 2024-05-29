@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '69fde5a4383272f5c5b218021a150dcc', // Write here your API Key
@@ -183,46 +183,46 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'trophy',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'MLB Bite',
+					link: 'https://mlbbite.net/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'NFL Bite',
+					link: 'https://reddit1.nflbite.com/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'NBA Bite',
+					link: 'https://official.nbabite.com/portal',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'NHL Bite',
+					link: 'https://reddit.nhlbite.com/',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'arrow-big-down-dash',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'qBT',
+					link: 'http://192.168.4.185:1791/',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'BTN',
+					link: 'https://broadcasthe.net/',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'PTP',
+					link: 'https://passthepopcorn.me/',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'GGn',
+					link: 'https://gazellegames.net/index.php',
 				},
 			],
 		},
