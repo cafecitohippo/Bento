@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://bsky.app/',
 				},
 				{
-					name: 'Mastodon',
-					link: 'https://mastodon.social/home',
+					name: 'Twitter',
+					link: 'https://x.com/home',
 				},
 			],
 		},
