@@ -11,10 +11,10 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Greg',
+	name: 'CafecitoHippo',
 	imageBackground: false,
 	openInNewTab: true,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '69fde5a4383272f5c5b218021a150dcc', // Write here your API Key
-	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'White', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'F', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Discover',
+			name: 'SoFi',
 			icon: 'piggy-bank',
-			link: 'https://www.discover.com/',
+			link: 'https://www.sofi.com/',
 		},
 		{
 			id: '6',
@@ -143,8 +143,8 @@ const CONFIG = {
 					link: 'https://pokedoku.com/',
 				},
 				{
-					name: 'Strands',
-					link: 'https://www.nytimes.com/games/strands',
+					name: 'Daily Dozen',
+					link: 'https://dailydozentrivia.com/',
 				},
 				{
 					name: 'Connections',
@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://bsky.app/',
 				},
 				{
-					name: 'Twitter',
-					link: 'https://x.com/home',
+					name: 'GolfWRX',
+					link: 'https://forums.golfwrx.com/forum/12-equipment/?_fromLogin=1',
 				},
 			],
 		},
