@@ -196,7 +196,7 @@ const CONFIG = {
 				},
 				{
 					name: 'NBA Bite',
-					link: 'https://official.nbabite.com/portal',
+					link: 'https://v2.nbabite.ai/live2',
 				},
 				{
 					name: 'NHL Bite',
