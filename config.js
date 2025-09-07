@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://www.nytimes.com/games/connections',
 				},
 				{
-					name: 'Crossword',
-					link: 'https://www.washingtonpost.com/crossword-puzzles/daily/',
+					name: 'Queens',
+					link: 'https://queensgame.vercel.app/',
 				},
 			],
 		},
@@ -192,7 +192,7 @@ const CONFIG = {
 				},
 				{
 					name: 'NFL Bite',
-					link: 'https://reddit1.nflbite.com/',
+					link: 'https://www.nflbite.is/',
 				},
 				{
 					name: 'NBA Bite',
