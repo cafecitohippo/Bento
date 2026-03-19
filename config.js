@@ -143,16 +143,16 @@ const CONFIG = {
 					link: 'https://pokedoku.com/',
 				},
 				{
-					name: 'Daily Dozen',
-					link: 'https://dailydozentrivia.com/',
+					name: 'Crossword',
+					link: 'https://www.washingtonpost.com/games/crossword/',
 				},
 				{
 					name: 'Connections',
 					link: 'https://www.nytimes.com/games/connections',
 				},
 				{
-					name: 'Queens',
-					link: 'https://queensgame.vercel.app/',
+					name: 'Sports Connection',
+					link: 'https://www.nytimes.com/athletic/connections-sports-edition/',
 				},
 			],
 		},
@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://www.reddit.com/',
 				},
 				{
-					name: 'Lemmy',
-					link: 'https://lemm.ee/',
+					name: 'BlueSky',
+					link: 'https://bsky.app/',
 				},
 				{
-					name: 'Bluesky',
-					link: 'https://bsky.app/',
+					name: 'LinkedIn',
+					link: 'https://www.linkedin.com/feed/',
 				},
 				{
 					name: 'GolfWRX',
